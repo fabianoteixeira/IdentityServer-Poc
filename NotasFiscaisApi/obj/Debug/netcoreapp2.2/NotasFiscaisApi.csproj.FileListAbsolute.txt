@@ -1,0 +1,14 @@
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\bin\Debug\netcoreapp2.2\NotasFiscaisApi.deps.json
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\bin\Debug\netcoreapp2.2\NotasFiscaisApi.runtimeconfig.json
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\bin\Debug\netcoreapp2.2\NotasFiscaisApi.runtimeconfig.dev.json
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\bin\Debug\netcoreapp2.2\NotasFiscaisApi.dll
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\obj\Debug\netcoreapp2.2\NotasFiscaisApi.csprojAssemblyReference.cache
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\obj\Debug\netcoreapp2.2\NotasFiscaisApi.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\obj\Debug\netcoreapp2.2\NotasFiscaisApi.RazorAssemblyInfo.cache
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\obj\Debug\netcoreapp2.2\NotasFiscaisApi.RazorAssemblyInfo.cs
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\obj\Debug\netcoreapp2.2\NotasFiscaisApi.AssemblyInfoInputs.cache
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\obj\Debug\netcoreapp2.2\NotasFiscaisApi.AssemblyInfo.cs
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\obj\Debug\netcoreapp2.2\NotasFiscaisApi.RazorTargetAssemblyInfo.cache
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\bin\Debug\netcoreapp2.2\NotasFiscaisApi.pdb
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\obj\Debug\netcoreapp2.2\NotasFiscaisApi.dll
+C:\Users\Fabiano\Desktop\NotasFiscaisApi\obj\Debug\netcoreapp2.2\NotasFiscaisApi.pdb
